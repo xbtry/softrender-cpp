@@ -1,0 +1,75 @@
+# Build directories
+/build/
+/out/
+/bin/
+/Debug/
+/Release/
+/CMakeFiles/
+/CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Visual Studio files
+*.vcxproj*
+*.sln
+*.user
+*.opensdf
+*.sdf
+*.ipch
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.obj
+*.idb
+*.iobj
+*.ipdb
+
+# Code::Blocks files
+*.depend
+*.layout
+
+# Qt Creator files
+*.pro.user*
+*.qbs.user*
+*.qmake.stash
+
+# CLion files
+/.idea/
+/cmake-build-*/
+
+# Eclipse files
+.project
+.cproject
+.settings/
+
+# MacOS files
+.DS_Store
+
+# Linux files
+*~
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+*.temp
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+
+# Logs and databases
+*.log
+*.sql
+
+# Other
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
